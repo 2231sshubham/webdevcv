@@ -1,0 +1,112 @@
+.top-container{
+  background-color: #e4f9f5;
+  padding-top: 50px;
+  position: relative;
+}
+body{
+  margin: 0 ;
+  text-align: center;
+  color: #40514E;
+ font-family: 'Merriweather', serif;
+}
+.intro{
+  width:30%;
+  margin:  auto;
+}
+hr{
+  background-color: white;
+  border-color: #dae1e7;
+  height: 0px;
+  border-style: dotted none none;
+  border-width: 6px;
+  width: 4%;
+  margin: 100px auto 100px auto;
+}
+h1 {
+   margin: 0 auto 0 auto;
+   color: #66BFBF;
+   font-size: 437.5%; /* 100% = 16px= 1em; So 70px would be 70/16=437.5% */
+   width: 20%;
+   padding-top: 50px;
+   font-family: 'Sacramento', cursive;
+}
+h3{
+  color:  #66BFBF;
+  font-size: 30px;
+}
+
+h4{
+  color: #6fe7dd;
+}
+
+.top-cloud{
+  position: absolute;
+  left: 800px;
+}
+.bottom-cloud{
+  position:absolute;
+  left:420px;
+}
+.intro{
+  padding-top: 20px;
+
+}
+.profile{
+  width: 200px;
+  height: 200px;
+  align-items: center;
+  border-radius: 200px;
+}
+.skillrow{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.developer{
+  width:25%;
+  height:25%;
+  margin-right: 30px;
+  border-radius:100%;
+  background-color: #a8d8ea;
+  float: left;
+}
+.java{
+  width:25%;
+  height:25%;
+  margin-left: 30px;
+  float: right;
+  border-radius: 100%;
+  background-color: #f7fbfc;
+}
+.python{
+  width:25%;
+  height:25% ;
+  margin-right: 30px;
+  border-radius:100%;
+  background-color: #f7fbfc;
+  float: left;
+}
+.contacticons{
+  width:40px;
+  padding-left: 10px;
+  padding-right: 10px;
+  height:40px;
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+.contactme{
+  font-size: 35px;
+}
+.footer{
+  width: auto;
+  height: 150px;
+  background-color: #66BFBF;
+  padding-top: 60px;
+}
+.copyright{
+  padding:20px 0px 20px 0px; 
+  color: #EAF6F6;
+  font-size: 0.75rem;
+}
